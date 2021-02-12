@@ -1,0 +1,336 @@
+#EXTINF:-1,IPTV4BEST.com |-France: Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: France 24 (ENG)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: France 24 Arabic
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: France 24 French
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: RT France
+http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:-1,IPTV4BEST.com |-France: TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+#EXTINF:-1,IPTV4BEST.com |-France: TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1,IPTV4BEST.com |-Cine + Emotion HD
+http://reds.ppdn.tn/iptv/ch741?code=460134681098246&key=19527
+#EXTINF:-1,IPTV4BEST.com |-Cine Frisson HD
+http://reds.ppdn.tn/iptv/ch270?code=460134681098246&key=20453
+#EXTINF:-1,IPTV4BEST.com |-Cine Famiz
+http://reds.ppdn.tn/iptv/ch288?code=460134681098246&key=57438
+#EXTINF:-1,IPTV4BEST.com |-Cine Premiere
+http://reds.ppdn.tn/iptv/ch275?code=460134681098246&key=41059
+#EXTINF:-1,IPTV4BEST.com |-Canal+
+http://reds.ppdn.tn/iptv/ch200?code=460134681098246&key=15846
+#EXTINF:-1,IPTV4BEST.com |-Canal+ Cinema
+http://reds.ppdn.tn/iptv/ch201?code=460134681098246&key=15427
+#EXTINF:-1,IPTV4BEST.com |-Canal+ Family
+http://reds.ppdn.tn/iptv/ch204?code=460134681098246&key=59139
+#EXTINF:-1,IPTV4BEST.com |-Canal+ Sport
+http://reds.ppdn.tn/iptv/ch202?code=460134681098246&key=19330
+#EXTINF:-1,IPTV4BEST.com |-Canal+ Decale
+http://reds.ppdn.tn/iptv/ch203?code=460134681098246&key=50703
+#EXTINF:-1,IPTV4BEST.com |-Canal+ series HD
+http://reds.ppdn.tn/iptv/ch205?code=460134681098246&key=60560
+#EXTINF:-1,IPTV4BEST.com |-TCM FR
+http://reds.ppdn.tn/iptv/ch1113?code=460134681098246&key=48647
+#EXTINF:-1,IPTV4BEST.com |-Action HD
+http://reds.ppdn.tn/iptv/ch271?code=460134681098246&key=25010
+#EXTINF:-1,IPTV4BEST.com |-Paramount ch. FR
+http://reds.ppdn.tn/iptv/ch1108?code=460134681098246&key=44940
+#EXTINF:-1,IPTV4BEST.com |-Polar Plus FR
+http://reds.ppdn.tn/iptv/ch286?code=460134681098246&key=61872
+#EXTINF:-1,IPTV4BEST.com |-Warner TV FR
+http://reds.ppdn.tn/iptv/ch285?code=460134681098246&key=48214
+#EXTINF:-1,IPTV4BEST.com |-Serie Club HD
+http://reds.ppdn.tn/iptv/ch233?code=460134681098246&key=58535
+#EXTINF:-1,IPTV4BEST.com |-TF1 HD
+http://reds.ppdn.tn/iptv/ch207?code=460134681098246&key=52033
+#EXTINF:-1,IPTV4BEST.com |-M6 HD
+http://reds.ppdn.tn/iptv/ch208?code=460134681098246&key=57261
+#EXTINF:-1,IPTV4BEST.com |-TF1 Serie Film
+http://reds.ppdn.tn/iptv/ch258?code=460134681098246&key=60985
+#EXTINF:-1,IPTV4BEST.com |-6 Ter HD
+http://reds.ppdn.tn/iptv/ch262?code=460134681098246&key=56473
+#EXTINF:-1,IPTV4BEST.com |-France 2 HD
+http://reds.ppdn.tn/iptv/ch209?code=460134681098246&key=18613
+#EXTINF:-1,IPTV4BEST.com |-France 3 HD
+http://reds.ppdn.tn/iptv/ch210?code=460134681098246&key=45974
+#EXTINF:-1,IPTV4BEST.com |-France 4
+http://reds.ppdn.tn/iptv/ch219?code=460134681098246&key=21532
+#EXTINF:-1,IPTV4BEST.com |-France 5
+http://reds.ppdn.tn/iptv/ch211?code=460134681098246&key=21741
+#EXTINF:-1,IPTV4BEST.com |-France O
+http://reds.ppdn.tn/iptv/ch212?code=460134681098246&key=62760
+#EXTINF:-1,IPTV4BEST.com |-W9 HD
+http://reds.ppdn.tn/iptv/ch220?code=460134681098246&key=27998
+#EXTINF:-1,IPTV4BEST.com |-Nouvelle Aquitaine
+http://reds.ppdn.tn/iptv/ch1114?code=460134681098246&key=31381
+#EXTINF:-1,IPTV4BEST.com |-Via Vosges
+http://reds.ppdn.tn/iptv/ch1112?code=460134681098246&key=47259
+#EXTINF:-1,IPTV4BEST.com |-Via Stella
+http://reds.ppdn.tn/iptv/ch1111?code=460134681098246&key=58902
+#EXTINF:-1,IPTV4BEST.com |-Dici Tv
+http://reds.ppdn.tn/iptv/ch1110?code=460134681098246&key=47003
+#EXTINF:-1,IPTV4BEST.com |-A La Maison
+http://reds.ppdn.tn/iptv/ch1115?code=460134681098246&key=52487
+#EXTINF:-1,IPTV4BEST.com |-Mont Blanc
+http://reds.ppdn.tn/iptv/ch374?code=460134681098246&key=44023
+#EXTINF:-1,IPTV4BEST.com |-E. Fr
+http://reds.ppdn.tn/iptv/ch392?code=460134681098246&key=54451
+#EXTINF:-1,IPTV4BEST.com |-Non Stop People Fr.
+http://reds.ppdn.tn/iptv/ch272?code=460134681098246&key=40267
+#EXTINF:-1,IPTV4BEST.com |-OCS Choc HD
+http://reds.ppdn.tn/iptv/ch226?code=460134681098246&key=33574
+#EXTINF:-1,IPTV4BEST.com |-OCS City HD
+http://reds.ppdn.tn/iptv/ch259?code=460134681098246&key=14978
+#EXTINF:-1,IPTV4BEST.com |-OCS Geant HD
+http://reds.ppdn.tn/iptv/ch394?code=460134681098246&key=41862
+#EXTINF:-1,IPTV4BEST.com |-OCS Max HD
+http://reds.ppdn.tn/iptv/ch393?code=460134681098246&key=14394
+#EXTINF:-1,IPTV4BEST.com |-13 eme Rue
+http://reds.ppdn.tn/iptv/ch256?code=460134681098246&key=55360
+#EXTINF:-1,IPTV4BEST.com |-Tv Breizh
+http://reds.ppdn.tn/iptv/ch251?code=460134681098246&key=25501
+#EXTINF:-1,IPTV4BEST.com |-TF1 HD +4
+http://reds.ppdn.tn/iptv/ch4207?code=460134681098246&key=34096
+#EXTINF:-1,IPTV4BEST.com |-France 2 HD +4
+http://reds.ppdn.tn/iptv/ch4209?code=460134681098246&key=49379
+#EXTINF:-1,IPTV4BEST.com |-M6 HD +4
+http://reds.ppdn.tn/iptv/ch4208?code=460134681098246&key=59773
+#EXTINF:-1,IPTV4BEST.com |-RTL 9
+http://reds.ppdn.tn/iptv/ch282?code=460134681098246&key=57552
+#EXTINF:-1,IPTV4BEST.com |-AB 1
+http://reds.ppdn.tn/iptv/ch284?code=460134681098246&key=22220
+#EXTINF:-1,IPTV4BEST.com |-AB 3
+http://reds.ppdn.tn/iptv/ch1652?code=460134681098246&key=20449
+#EXTINF:-1,IPTV4BEST.com |-TEVA HD
+http://reds.ppdn.tn/iptv/ch230?code=460134681098246&key=49473
+#EXTINF:-1,IPTV4BEST.com |-Viceland Fr.
+http://reds.ppdn.tn/iptv/ch1297?code=460134681098246&key=63405
+#EXTINF:-1,IPTV4BEST.com |-Seasons Fr.
+http://reds.ppdn.tn/iptv/ch1298?code=460134681098246&key=29180
+#EXTINF:-1,IPTV4BEST.com |-Crime District Fr.
+http://reds.ppdn.tn/iptv/ch390?code=460134681098246&key=60452
+#EXTINF:-1,IPTV4BEST.com |-My Cuisine TV HD
+http://reds.ppdn.tn/iptv/ch380?code=460134681098246&key=31409
+#EXTINF:-1,IPTV4BEST.com |-Ushuaia TV HD
+http://reds.ppdn.tn/iptv/ch242?code=460134681098246&key=21957
+#EXTINF:-1,IPTV4BEST.com |-NAT GEO HD Fr.
+http://reds.ppdn.tn/iptv/ch235?code=460134681098246&key=43468
+#EXTINF:-1,IPTV4BEST.com |-NATGEO WILD HD Fr.
+http://reds.ppdn.tn/iptv/ch238?code=460134681098246&key=14607
+#EXTINF:-1,IPTV4BEST.com |-Planete Plus HD
+http://reds.ppdn.tn/iptv/ch234?code=460134681098246&key=52010
+#EXTINF:-1,IPTV4BEST.com |-Voyage Fr.
+http://reds.ppdn.tn/iptv/ch236?code=460134681098246&key=29725
+#EXTINF:-1,IPTV4BEST.com |-Discovery Family HD Fr.
+http://reds.ppdn.tn/iptv/ch379?code=460134681098246&key=63579
+#EXTINF:-1,IPTV4BEST.com |-Discovery Science HD Fr.
+http://reds.ppdn.tn/iptv/ch229?code=460134681098246&key=35683
+#EXTINF:-1,IPTV4BEST.com |-Discovery Show Case Fr.
+http://reds.ppdn.tn/iptv/ch241?code=460134681098246&key=35692
+#EXTINF:-1,IPTV4BEST.com |-Discovery ID Fr.
+http://reds.ppdn.tn/iptv/ch249?code=460134681098246&key=25620
+#EXTINF:-1,IPTV4BEST.com |-RMC Decouverte
+http://reds.ppdn.tn/iptv/ch739?code=460134681098246&key=51776
+#EXTINF:-1,IPTV4BEST.com |-Toute Histoire
+http://reds.ppdn.tn/iptv/ch1116?code=460134681098246&key=41797
+#EXTINF:-1,IPTV4BEST.com |-Histoire
+http://reds.ppdn.tn/iptv/ch280?code=460134681098246&key=51406
+#EXTINF:-1,IPTV4BEST.com |-RMC Story
+http://reds.ppdn.tn/iptv/ch247?code=460134681098246&key=16511
+#EXTINF:-1,IPTV4BEST.com |-Chasse et Peche
+http://reds.ppdn.tn/iptv/ch283?code=460134681098246&key=32713
+#EXTINF:-1,IPTV4BEST.com |-D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-FR | D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 3 Alpes
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 3 Rhône-Alpes
+https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France Info
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France Ô
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-GONG
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Gulli
+https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TF1 S�ries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-viàMATÉLÉ
+https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-FRANCE 24 EN HD
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 French
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 Arabic
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 Arabic
+http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-France 24 French
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Grand Lille TV
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Grand Lille TV HD
+http://str81.creacast.com/grandlilletv/high/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Holygod TV Europe & Middle East
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Holygod TV Europe & Middle East
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-IL TV
+http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-ILTV
+http://str81.creacast.com:80/iltv/high/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-ILTV
+https://str81.creacast.com/iltv/high/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-LA CHAINE NORMANDE
+http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-La Chaine Normande TV
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-La Chaine Normande TV
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Lèeekô TV
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-MYComedy
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Persiana 1
+http://51.15.229.209/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Persiana 2 Cinema
+http://51.15.193.156/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Persiana 3 Junior
+http://51.158.74.129/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Persiana 4 Iranian
+http://51.158.97.214/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Persiana 5 Documentary
+http://163.172.174.60/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Persiana 6 Music
+http://163.172.147.113/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Poker TV Arabia
+http://51.15.193.127/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Poker TV France
+http://51.15.254.60/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-RT France
+https://rt-france.secure.footprint.net/1107.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-RT France
+http://rt-france.secure.footprint.net/1107.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Radio Contact Vision
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Salamat Tube TV
+http://51.158.116.146/hls/stream.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-Sport en France
+https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com |-A LA Carte 4
+http://reds.ppdn.tn/iptv/ch303?code=460134681098246&key=58359
+#EXTINF:-1,IPTV4BEST.com | -Fashion TV L'Original
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com | -Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com | -Fashion TV Paris
+http://bit.ly/2zOVkbF?checkedby:IPTV4BEST.com
+#EXTINF:-1,IPTV4BEST.com | -TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8?checkedby:IPTV4BEST.com
